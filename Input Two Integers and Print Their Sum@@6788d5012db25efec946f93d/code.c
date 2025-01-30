@@ -6,7 +6,10 @@ int main() {
     // scanf("%d",&x);
     // printf("%d",y);
     // scanf("%d",&y);
+
     scanf("%d %d",&x,&y);
     printf("you entered: %d and %d",x,y);
+    int a = x+y;
+    printf("Sum: %d",a);
     return 0;
 }
