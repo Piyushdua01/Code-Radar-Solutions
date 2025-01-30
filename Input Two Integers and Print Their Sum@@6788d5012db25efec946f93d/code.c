@@ -2,9 +2,11 @@
 
 int main() {
     int x,y;
-    printf("%d",x);
-    scanf("%d",&x);
-    printf("%d",y);
-    scanf("%d",&y);
+    // printf("%d",x);
+    // scanf("%d",&x);
+    // printf("%d",y);
+    // scanf("%d",&y);
+    scanf("%d %d",&x,&y);
+    printf("you entered: %d and %d",x,y);
     return 0;
 }
