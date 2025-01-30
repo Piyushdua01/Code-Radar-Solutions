@@ -3,8 +3,8 @@
 int main() {
     char str=[]="hello world"
     printf("You entered: ");
-
-    printf("%s",str);
+    scanf("%c",&str);
+    printf("%c",str);
     return 0;
 
 }
