@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    char str=[];
-    printf("You entered: ");
-    scanf("%c",&str);
-    printf("%c",str);
+    char str[];
+    printf("You entered:");
+    scanf("%s",&str);
+    printf("%s",str);
+
     return 0;
 
 }
