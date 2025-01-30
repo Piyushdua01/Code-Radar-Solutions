@@ -2,10 +2,9 @@
 #include <string.h>
 
 int main() {
-    
-    printf("You entered:");
-    scanf("%s",&str);
-    printf("%s",str);
+    char str[];
+    printf("You entered: %s",str);
+
 
     return 0;
 
