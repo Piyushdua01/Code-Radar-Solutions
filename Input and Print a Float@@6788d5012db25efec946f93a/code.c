@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main() {
-    float a=3.4;
-    printf(%f,a);
+    float a;
+    printf("%f",a);
+    scanf("%f",&a)
     return 0;
     
 }
