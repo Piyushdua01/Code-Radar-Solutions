@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    string str;
+    char str[50];
     printf("You entered: %s",str);
 
 
