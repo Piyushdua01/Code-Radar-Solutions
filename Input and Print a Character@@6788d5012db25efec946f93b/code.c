@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    char A;
-    printf("You entered:");
-    scanf("%c",&A);
-    printf("You entered: %c\n",A);
+    char a,A;
+
+    scanf("%c",&A,&a);
+    printf("You entered: %c\n",A,a);
     return 0;
     
 }
