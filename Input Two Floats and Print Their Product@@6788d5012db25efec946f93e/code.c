@@ -8,7 +8,7 @@ int main(){
     printf("");
     float a;
     a = x*y;
-    printf("Product: %f",a);
+    printf("Product: %.2f",a);
 
     return 0;
 }
