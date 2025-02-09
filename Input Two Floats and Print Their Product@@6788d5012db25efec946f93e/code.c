@@ -6,4 +6,5 @@ int main(){
     int a=x*y;
     printf("%f",a);
 
+    return 0;
 }
