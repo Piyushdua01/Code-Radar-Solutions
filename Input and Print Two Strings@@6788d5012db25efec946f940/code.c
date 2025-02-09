@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char c,p;
+    char c;
+    char p;
     scanf("%s",c);
     scanf("%s",p);
     printf("You entered:%s and %s",c,p);
