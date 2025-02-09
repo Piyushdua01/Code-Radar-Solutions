@@ -7,6 +7,8 @@ int main() {
 
     scanf("%d",&y);
 
-    printf("%d",x+y);
-    return 0; 
+    int a=x+y;
+
+    printf("%d",a);
+    return x+y; 
 }
