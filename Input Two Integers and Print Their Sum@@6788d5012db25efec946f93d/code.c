@@ -9,6 +9,6 @@ int main() {
 
     int a=x+y;
 
-    printf("%d",a);
-    return x+y; 
+    printf("Sum: %d",a);
+    return 0; 
 }
