@@ -3,7 +3,7 @@
 int main(){
     double p;
     scanf("%lf",&p);
-    printf("You entered: %lf",p);
+    printf("You entered: %3lf",p);
 
 
     return 0;
