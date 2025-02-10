@@ -2,8 +2,8 @@
 #include <string.h>
 
 int main() {
-    char c[];
-    char p[];
+    char c;
+    char p;
     scanf("%s",c);
     printf("");
     scanf("%s",p);
