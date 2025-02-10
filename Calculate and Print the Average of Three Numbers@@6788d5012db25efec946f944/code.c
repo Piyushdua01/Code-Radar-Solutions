@@ -4,9 +4,9 @@
 int main() {
     int x,y,z;
     scanf("%d %d %d",&x,&y,&z);
-    int a;
+    float a;
     a = (x + y+ z)/3;
-    printf("Average: %d",a);
+    printf("Average: %.2f",a);
 
     return 0;
 }
