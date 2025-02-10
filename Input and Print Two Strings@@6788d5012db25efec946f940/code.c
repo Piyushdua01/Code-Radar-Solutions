@@ -5,9 +5,9 @@
 int main() {
     char c [100];
     char p [100];
-    scanf("99%s",c);
+    scanf("%s",c);
 
-    scanf("%99s",p);
+    scanf("%s",p);
 
     printf("You entered:%s and %s",c,p);
 
