@@ -1,9 +1,10 @@
 #include <stdio.h>
+#include <string.h>
 
 
 int main() {
     char c [100];
-    char p [101];
+    char p [100];
     scanf("99%s",c);
 
     scanf("%99s",p);
