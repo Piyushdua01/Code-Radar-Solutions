@@ -12,7 +12,7 @@ int main() {
     }else if(a||b =0){
         printf("False");
     }else{
-        printf("False")
+        printf("False");
     }
     
 
